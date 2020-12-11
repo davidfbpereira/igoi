@@ -38,6 +38,7 @@ class Department:
 			print(person)
 
 if __name__ == '__main__':	
+	print('pancake')
 	bob = Person('Bob Smith')
 	sue = Person('Sue Jones', job='dev', pay=100000)
 
